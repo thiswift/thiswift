@@ -13,4 +13,4 @@
 ## Minhas Contribuições 🫱🏻‍🫲🏻
 [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=thiagobuttler&repo=ProjetoA3PrimeiroSemestre&bg_color=000&border_color=00FFFF&show_icons=true&icon_color=30A3DC&title_color=00FFFF&text_color=FFF)](https://github.com/thiagobuttler/ProjetoA3PrimeiroSemestre)
 
-![Snake animation](https://github.com/thiagobuttler)
+![snake_eif](https://github.com/thiagobuttler/thiagobuttler/blob/output/github-grid-snale.svg)
